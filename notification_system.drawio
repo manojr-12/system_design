@@ -192,7 +192,7 @@
           <mxGeometry height="80" width="60" x="991" y="1093" as="geometry" />
         </mxCell>
         <mxCell id="pFXouD2CtNYn1OhC4Gpa-128" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
-          <mxGeometry height="80" width="60" x="1023" y="1093" as="geometry" />
+          <mxGeometry height="80" width="60" x="1015.35" y="1093" as="geometry" />
         </mxCell>
         <mxCell id="pFXouD2CtNYn1OhC4Gpa-129" edge="1" parent="1" source="pFXouD2CtNYn1OhC4Gpa-69" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" target="pFXouD2CtNYn1OhC4Gpa-128">
           <mxGeometry relative="1" as="geometry" />
